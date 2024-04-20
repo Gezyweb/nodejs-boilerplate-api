@@ -7,14 +7,14 @@
         "database": "node-mysql-signup-verification-api"
     },
 
-    "secret": "e9bbd015-4dee-4a36-b9a5-0e3c85162d7e", 
+    "secret": "5bdfd139-0447-4b5a-83ed-52e6596ebe08", 
     "emailFrom": "info@ethernal-mysql-signup-verification-api.com",
     "smtpOptions": {
         "host": "smtp.ethereal.email",
         "port": 587,
         "auth": {
-            "user":"harvey67@ethereal.email",
-            "pass":"zUc6thBYBbrbcrVUet"
+            "user":"dashawn.wilderman@ethereal.email",
+            "pass":"xp7aMEy3UAaEfhGnTM"
         }
     }
 }        
